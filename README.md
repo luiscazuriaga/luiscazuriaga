@@ -9,9 +9,9 @@ I’m a passionate and versatile Full-Stack Developer, skilled in a plethora of 
 My journey in tech began at a young age, with the aspiration to contribute substantially through my skills. I transitioned from Civil Engineering to Software Development, fueled by a relentless pursuit of knowledge and growth, and a desire to blend technology with a human touch in every solution I create.
 
 ### 🏆 **Main Achievements:**
-- **BTG Pactual:** Led and successfully executed crucial automation projects for investment funds reports, significantly reducing risk and enhancing performance at the leading investment bank in Latin America.
-- **VMware Project ("Pathfinder"):** Contributed significantly to the enhancement of 'Pathfinder', an existing platform aimed at improving product experience guides, utilizing technologies like Angular and Node.js. Additionally, I was part of a team that pivoted to develop a new, innovative platform.
 - **Wind River Project ("Conductor"):** Instrumental in refining 'Conductor', an established end-to-end platform optimized for orchestration and operations, harnessing technologies like React, Python, Docker, AWS, Kubernetes, and Helm among others.
+- **VMware Project ("Pathfinder"):** Contributed significantly to the enhancement of 'Pathfinder', an existing platform aimed at improving product experience guides, utilizing technologies like Angular and Node.js. Additionally, I was part of a team that pivoted to develop a new, innovative platform.
+- **BTG Pactual:** Led and successfully executed crucial automation projects for investment funds reports, significantly reducing risk and enhancing performance at the leading investment bank in Latin America.
 - **É Possível Sonhar:** Volunteered for a charitable initiative, 'É Possível Sonhar', creating empowering solutions for women and children victims of maltreatment.
 
 ### 💡 **Values and Beliefs:**
